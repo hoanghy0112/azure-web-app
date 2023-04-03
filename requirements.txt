@@ -1,0 +1,10 @@
+Django
+whitenoise
+scikit-image
+Pillow
+opencv-python
+pandas
+matplotlib
+scikit-learn
+numpy
+opencv-contrib-python-headless
